@@ -1,5 +1,4 @@
 fdxgc fhgfhfewuf iefjiuefr
 gfeff
 
-git config --global user.email "192521391.simats@saveetha.com"
-git config --global user.name "Brijesh-coder07"
+ddhjjd
